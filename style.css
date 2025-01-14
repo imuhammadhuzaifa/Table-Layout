@@ -64,6 +64,7 @@
 table {
     margin: 40px 20px;
     width: 95vw;
+    height: 66vh;
     border-radius: 20px;
     text-align: center;
 }
@@ -75,8 +76,8 @@ table {
 }
 
 td>img {
-    width: 50%;
-    height: 7vh;
+    width: 35%;
+    height: 8vh;
     padding: 10px;
 }
 
